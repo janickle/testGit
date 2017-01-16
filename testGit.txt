@@ -6,3 +6,4 @@ Change my mine, want to edit commit before push it
 456464665564Change my mine, want to edit commit before push it
 dsfsadfdsaf
 fdsfdsfdsf
+OK now
