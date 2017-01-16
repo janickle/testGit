@@ -4,3 +4,5 @@ Push it now
 Change my mine, want to edit commit before push it
 
 OK Test reset
+
+123456
